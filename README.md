@@ -1,1 +1,1 @@
-![Gravity Forms - Build Beautiful, Powerful and Accessible Forms.]([http://url/to/img.png](https://raw.githubusercontent.com/gravityforms/.github/main/1500x500-2.jpeg)https://raw.githubusercontent.com/gravityforms/.github/main/1500x500-2.jpeg)
+![Gravity Forms - Build Beautiful, Powerful and Accessible Forms.](https://raw.githubusercontent.com/gravityforms/.github/main/1500x500-2.jpeg)
