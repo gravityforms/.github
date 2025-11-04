@@ -8,15 +8,18 @@
 
 Closes: <!-- issue link -->
 
-## Testing instructions
+## Testing 
 
+### Testing Requirements
 - [ ] This needs to be tested in multiple browsers.
 - [ ] This needs to be tested with both Gravity and Orbital themes.
 - [ ] This needs to be tested with and without AJAX submission.
 - [ ] This needs accessibility testing.
 - [ ] This needs to be tested with different versions of PHP or database servers.
 - [ ] This needs to be tested with different versions of WordPress.
+- [ ] None of the above.
 
+### Testing Instructions
 <!-- Add instructions to help the reviewer test your code. -->
 <!-- Include sample forms, add-ons or snippets where appropriate. -->
 
